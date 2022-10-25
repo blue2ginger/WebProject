@@ -1,0 +1,53 @@
+﻿.center {
+    padding-left: 50px;
+}
+
+.buff {
+    margin-left: 25px;
+}
+
+.buff1 {
+    margin-left: 65px;
+}
+
+.container submit {
+    text-align: center
+}
+
+input:required, input[required] {
+    border: 1px solid red;
+}
+input:valid {
+    border: 1px solid #11bd16;
+}
+
+textarea:required {
+    border: 1px solid red;
+}
+textarea:valid {
+    border: 1px solid #11bd16;
+}
+
+select:required {
+    border: 1px solid red;
+}
+select:valid {
+    border: 1px solid #11bd16;
+}
+
+th, td {
+    color: lightgray;
+}
+
+tr:hover {
+    background-color: orange;
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
+
+.button1 {
+    margin-top: 10px;
+}

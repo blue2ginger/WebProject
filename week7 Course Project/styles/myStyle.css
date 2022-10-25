@@ -1,0 +1,101 @@
+﻿/*Nav Bar and Jumbotron*/
+
+.navbar-dark .navbar-brand {
+    color: #DAA520;
+}
+
+.navbar-dark {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.jumbotron {
+    background-color: #DAA520;
+    padding-bottom: 25px;
+}
+
+/*Body*/
+body {
+    font-family: 'Khand', sans-serif;
+    background-color: #343a40;
+}
+
+.card img {
+    height: 425px;
+    width: 350px;
+}
+.card-body  p {
+    text-emphasis-color:darkorange;
+}
+
+.checked {
+    color: orange;
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+/*container stuff*/
+.container {
+    border: 2px solid #DAA520;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+    .container h1, h2, h3, h4 {
+        color: #DAA520;
+    }
+
+   .container p {
+        color: lightgray
+    }
+
+   .container label {
+       color: lightgray
+   }
+
+
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*other stuff*/
+.testImage {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
+
+.foot1 {
+    float: left;
+    padding: 5px;
+}
+
+.p-3 {
+    padding: 1rem!important;
+    background-color: lightgray;
+}
+
+.hero {
+    padding-top: 300px;
+}
+
+.boom {
+    color: gold;
+}
+.boom1 {
+    padding-left: 15px;
+    color:gold;
+}
+
+.pwork {
+    margin-top: 20px;
+    background-color: #d2a813;
+    background-image: linear-gradient(315deg, #d2a813 0%, #000000 74%);
+    color: #ffffff;
+}
